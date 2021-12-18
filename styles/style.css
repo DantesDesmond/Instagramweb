@@ -1,0 +1,20 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.contenedor-img{
+    width: 80px;
+    height: 80px;
+}
+
+.user-name{
+    font-size: 12px;
+}
+
+.border-red
+{
+  border: 1px solid #cb2c8a;
+  background-image: url(file:///C:/Users/Elvyn%20D.%20Medina/Desktop/Instagram/img2/descarga.jpg);
+  background-size: cover;
+}
